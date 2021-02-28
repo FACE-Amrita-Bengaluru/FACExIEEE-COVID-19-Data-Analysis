@@ -16,4 +16,4 @@
 - Seaborn
 ---
 
-[Kaggle](https://www.kaggle.com/'Kaggle') and [Our World in Data](https://ourworldindata.org/) were the main sources for our datasets.  
+[Kaggle](https://www.kaggle.com/) and [Our World in Data](https://ourworldindata.org/) were the main sources for our datasets.  
