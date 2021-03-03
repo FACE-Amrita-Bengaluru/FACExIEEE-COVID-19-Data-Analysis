@@ -37,4 +37,4 @@ Different datasets pertaining to response measures taken, cases confirmed in Ind
 - Vaccinations in India (time series)
 - Vaccinations per capita (time series)
 - Daily vaccinations per million (joint plot)
----
+-----
