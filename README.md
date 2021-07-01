@@ -1,10 +1,11 @@
 # Project
 ## Data Science Project - COVID-19 Data analysis
 ### Project Aim : Analyzing prevalent COVID-19 datasets to generate insights on the spread of COVID-19 over time using charts, graphs, time series and other tools.
-
-**Authors:** Thanya Ramanathan and Anirudh Balan
----
 ***This repository is open for contributions from everyone at college, as a part of the annual Kalanjali events. Make your commits count!***
+
+**Authors:** 
+- Thanya Ramanathan (2nd Year, MEE)
+- Anirudh Balan (2nd Year, EEE)
 
 #### Tools used
 - Anaconda
